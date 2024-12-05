@@ -5,7 +5,7 @@ The aim is to put the document retrieval and text generation pipeline into pract
 
 ## Technical specifications
 
-- Languages : Python (Library : LangChain)
+- Language : Python (Library : LangChain)
 - AI model : GPT-4-o
 - GUI framework : Streamlit
 - Deployment : Docker, Railway
